@@ -1,0 +1,178 @@
+{
+  "armures": [
+    {
+      "name": "casque",
+      "slot": 13,
+      "niv": [
+        {
+          "type": "cuir",
+          "prix": 0,
+          "desc":"test"
+        },
+        {
+          "type": "or",
+          "prix": 0,
+          "desc": "test"
+        },
+        {
+          "type": "maille",
+          "prix": 0,
+          "desc": "test"
+        },
+        {
+          "type": "fer",
+          "prix": 0,
+          "desc": "test"
+        },
+        {
+          "type": "diamant",
+          "prix": 0,
+          "desc": "test"
+          }
+      ]
+    },
+    {
+      "name": "plastron",
+      "slot": 22,
+      "niv":  [
+        {
+          "type": "cuir",
+          "prix": 0,
+          "desc": "test"
+        },
+        {
+          "type": "or",
+          "prix": 0,
+          "desc": "test"
+        },
+        {
+          "type": "maille",
+          "prix": 0,
+          "desc": "test"
+        },
+        {
+          "type": "fer",
+          "prix": 0,
+          "desc": "test"
+        },
+        {
+          "type": "diamant",
+          "prix": 0,
+          "desc": "test"
+        }
+      ]
+    },
+    {
+      "name": "jambiere",
+      "slot": 31,
+      "niv":  [
+        {
+          "type": "cuir",
+          "prix": 0,
+          "desc": "test"
+        },
+        {
+          "type": "or",
+          "prix": 0,
+          "desc": "test"
+        },
+        {
+          "type": "maille",
+          "prix": 0,
+          "desc": "test"
+        },
+        {
+          "type": "fer",
+          "prix": 0,
+          "desc": "test"
+        },
+        {
+          "type": "diamant",
+          "prix": 0,
+          "desc": "test"
+        }
+      ]
+    },
+    {
+      "name": "botte",
+      "slot": 40,
+      "niv":  [
+        {
+          "type": "cuir",
+          "prix": 0,
+          "desc": "test"
+        },
+        {
+          "type": "or",
+          "prix": 0,
+          "desc": "test"
+        },
+        {
+          "type": "maille",
+          "prix": 0,
+          "desc": "test"
+        },
+        {
+          "type": "fer",
+          "prix": 0,
+          "desc": "test"
+        },
+        {
+          "type": "diamant",
+          "prix": 0,
+          "desc": "test"
+        }
+      ]
+    }
+  ],
+  "combats": [
+    {
+      "name": "Epee",
+      "slot": 25,
+      "niv": [
+        {
+          "type": "bois",
+          "prix": 0,
+          "desc": "test"
+        },
+        {
+          "type": "pierre",
+          "prix": 0,
+          "desc": "test"
+        },
+        {
+          "type": "fer",
+          "prix": 0,
+          "desc": "test"
+        },
+        {
+          "type": "diamant",
+          "prix": 0,
+          "desc": "test"
+        }
+      ]
+    },
+    {
+      "name": "Arc",
+      "slot": 19,
+      "niv": [
+        {
+        }
+      ]
+    }
+  ],
+  "consommables": [
+    {
+      "name": "Pomme d'or",
+      "slot": 34,
+      "nb": 1,
+      "prix": 3
+    },
+    {
+      "name": "fleche",
+      "slot": 28,
+      "nb": 2,
+      "prix": 0
+    }
+  ]
+}
